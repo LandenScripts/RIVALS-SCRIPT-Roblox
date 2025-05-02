@@ -1,1 +1,2 @@
+wait("0.2")
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Universal/ValiantENV.lua"))()
